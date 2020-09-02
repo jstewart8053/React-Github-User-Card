@@ -1,1 +1,21 @@
+.App-header {
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: white;
+}
+
+
+
+img {
+  align-self: center;
+  height: auto;
+  width: 30%;
+  border: solid white 10px;
+  border-radius: 8px;
+ 
+}
+
 
